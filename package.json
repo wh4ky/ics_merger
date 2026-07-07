@@ -1,0 +1,23 @@
+{
+  "name": "ics_merger",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/FurriousFox/ics_merger#readme",
+  "bugs": {
+    "url": "https://github.com/FurriousFox/ics_merger/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FurriousFox/ics_merger.git"
+  },
+  "license": "UNLICENSED",
+  "author": "",
+  "type": "module",
+  "main": "index.ts",
+  "dependencies": {
+    "ical.js": "^2.2.1"
+  },
+  "scripts": {
+    "start": "node index.ts"
+  }
+}

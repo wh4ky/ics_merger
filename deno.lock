@@ -1,0 +1,21 @@
+{
+  "version": "5",
+  "specifiers": {
+    "npm:ical.js@^2.2.1": "2.2.1"
+  },
+  "npm": {
+    "ical.js@2.2.1": {
+      "integrity": "sha512-yK/UlPbEs316igb/tjRgbFA8ZV75rCsBJp/hWOatpyaPNlgw0dGDmU+FoicOcwX4xXkeXOkYiOmCqNPFpNPkQg=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:ical.js@^2.2.1"
+    ],
+    "packageJson": {
+      "dependencies": [
+        "npm:ical.js@^2.2.1"
+      ]
+    }
+  }
+}
