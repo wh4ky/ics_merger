@@ -35,7 +35,7 @@ http.createServer(async (req, res) => {
         default: {
             res.statusCode = 404;
             res.end("not found\n");
-            break;
+            return;
         };
     }
 
