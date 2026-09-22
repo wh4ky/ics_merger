@@ -1,0 +1,14 @@
+{
+  "port": 4173,
+  "host": "0.0.0.0",
+
+  "urls": {
+    "test": [
+      "https://samplefile.com/samples/download/document/ics/ics_customer_migration_timeline_sample.ics"
+    ],
+    "test2": [
+      "https://samplefile.com/samples/download/document/ics/ics_customer_migration_timeline_sample.ics",
+      "https://samplefile.com/samples/download/document/ics/ics_recurring_release_schedule_sample.ics"
+    ]
+  }
+}
